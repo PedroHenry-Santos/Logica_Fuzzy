@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Badge](https://img.shields.io/github/license/PedroHenry-Santos/Letmeask?style=flat&label=LICENSE&color=FFC300&labelColor=000000)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/PedroHenry-Santos/letmeask?style=flat&labelColor=000000&color=FFC300)
-![GitHub last commit](https://img.shields.io/github/last-commit/PedroHenry-Santos/letmeask?color=FFC300&style=flat&labelColor=000000)
-![GitHub repo size](https://img.shields.io/github/repo-size/Pedrohenry-Santos/letmeask?color=FFC300&labelColor=000000)
+![Badge](https://img.shields.io/github/license/PedroHenry-Santos/Logica_Fuzzy?style=flat&label=LICENSE&color=FFC300&labelColor=000000)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/PedroHenry-Santos/Logica_Fuzzy?style=flat&labelColor=000000&color=FFC300)
+![GitHub last commit](https://img.shields.io/github/last-commit/PedroHenry-Santos/Logica_Fuzzy?color=FFC300&style=flat&labelColor=000000)
+![GitHub repo size](https://img.shields.io/github/repo-size/PedroHenry-Santos/Logica_Fuzzy?color=FFC300&labelColor=000000)
 
 ![Badge](https://img.shields.io/badge/Python-v3.8.10-blue?style=flat&color=298BF9&labelColor=000000&logo=Python)
 
