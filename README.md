@@ -59,7 +59,7 @@ Após instalar basta selecione o Python do **venv** no local da imagem abaixo.
   <img src=".github/exemplo.png" with="400" height="200"/>
 </div>
 
-No terminal do VSCode instale as bibliotecas [numpy](https://numpy.org/install/) e [matplotlib](https://matplotlib.org/stable/users/installing.html). A o arquivo **main.ipynb** e executar todos os blocos.
+No terminal do VSCode instale as bibliotecas [numpy](https://numpy.org/install/) e [matplotlib](https://matplotlib.org/stable/users/installing.html). Descompacte o arquivo **main.ipynb** e executar todos os blocos.
 
 # :mailbox: Para contribuir
 
